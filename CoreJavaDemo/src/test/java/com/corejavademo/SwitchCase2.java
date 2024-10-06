@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class SwitchCase2 {
 
 	public static void main(String[] args) {
+		System.out.println("hello");
+		System.out.println("hello motto");
 		
 		Scanner sc=new Scanner(System.in);
 		int x=10;
@@ -21,6 +23,7 @@ public class SwitchCase2 {
 			
 		default:
 			System.out.println("it is wrong answer");
+			System.out.println("true");
 		}
 		sc.close();
 
