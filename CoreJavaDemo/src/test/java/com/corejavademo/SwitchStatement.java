@@ -27,7 +27,7 @@ public class SwitchStatement {
 			default: 
 				System.out.println("default");
 		}
-		sc.close();
+		
 
 	}
 
